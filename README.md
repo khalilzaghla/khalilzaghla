@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Final-year **Data Engineering** student at **ENET'Com**, Sfax, Tunisia
+- 🎓 Second-year **Data Engineering** student at **ENET'Com**, Sfax, Tunisia
 - 🔭 Currently working on **fraud detection systems** using GNNs & big data pipelines
 - 🌱 Currently deepening my knowledge in **Graph Neural Networks**, **Transformers**, and **Real-time Data Engineering**
 - 🤝 Member of **Google Developer Student Club (GDSC) @ ENET'Com**
@@ -93,9 +93,9 @@
 
 ## 🏆 Achievements
 
-- 🥇 Participant — **AI Night Challenge 2026** (EcoShield AI project)
-- 🎓 Active member — **Google Developer Student Club @ ENET'Com**
-- 💼 Intern — **ITTStar Consulting LLC** (Computer Vision application)
+- 🥇 Winner — **AI Night Challenge 2026** (EcoShield AI project)
+- 🎓 Machine Learning Department CO-lead — **Google Developer Student Club @ ENET'Com**
+- 💼 Intern — **Digital Research Center Of Sfax ** (Computer Vision application)
 
 ---
 
