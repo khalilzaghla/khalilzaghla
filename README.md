@@ -72,7 +72,6 @@
 | [**PFAD**](https://github.com/khalilzaghla/PFAD) | Big Data Fraud Detection Platform with real-time analytics | Kafka, Spark, ClickHouse, Python |
 | [**gnn_training**](https://github.com/khalilzaghla/gnn_trainig) | Graph Neural Network training experiments for fraud detection | PyTorch, DGL, Python |
 | [**sql_warehouse_project**](https://github.com/khalilzaghla/sql_warehouse_project) | Modern data warehouse with ETL, data modeling & analytics | SQL Server, TSQL, Power BI |
-| [**pfa_demo**](https://github.com/khalilzaghla/pfa_demo) | Demo dashboard for PFA project | Python, Streamlit |
 | [**machine_learning_CLTV**](https://github.com/khalilzaghla/machine_learning_CLTV) | Customer Lifetime Value prediction using ML | Python, scikit-learn |
 | [**EcoShield AI**](https://github.com/ai-night-challlenge-2026/EcoShield_AI) | AI Night Hackathon 2026 project | Python, AI/ML |
 
