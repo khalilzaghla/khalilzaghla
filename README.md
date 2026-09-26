@@ -65,7 +65,7 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| **Spatio-Temporal Action Recognition** | End-to-end video action detection using YOLOv8 tracking, 3D RoIAlign, and SlowFast dual-pathway backbone with Flask dashboard | PyTorch, YOLOv8, SlowFast (ResNet-50 3D), OpenCV, Flask |
+| [**Spatio-Temporal Action Recognition**](https://github.com/khalilzaghla/slowfast_SL) | End-to-end video action detection using YOLOv8 tracking, 3D RoIAlign, and SlowFast dual-pathway backbone with Flask dashboard | PyTorch, YOLOv8, SlowFast (ResNet-50 3D), OpenCV, Flask |
 | **RL Video Anomaly Scoring** | Active temporal anomaly localization leveraging PPO (Actor-Critic) over fine-tuned VideoMAE spatio-temporal embeddings | PyTorch, VideoMAE, PPO, Reinforcement Learning, Transformers |
 | [**PFAD**](https://github.com/khalilzaghla/PFAD) | Real-time streaming fraud detection platform handling 50k+ events/hr with sub-200ms latency and GraphSAGE GNN inference | Kafka, Spark, ClickHouse, GNN, PyTorch, Airflow |
 | [**EcoShield AI**](https://github.com/ai-night-challlenge-2026/EcoShield_AI) | Multi-modal intelligent detection system (AI Night Challenge 2026 Winner) | Python, Deep Learning, Computer Vision |
