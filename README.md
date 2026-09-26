@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Khalil Zaghla 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&width=435&lines=Data+Engineering+Student;ML+%26+Big+Data+Enthusiast;GNN+%7C+PyTorch+%7C+Apache+Spark;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&width=520&lines=Final-Year+Data+Engineering+Student;Computer+Vision+%26+Deep+Learning+Enthusiast;Spatio-Temporal+Video+%7C+Pose+%7C+PyTorch;Building+Real-Time+AI+%26+Streaming+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khalil-zaghla" target="_blank">
+  <a href="https://www.linkedin.com/in/khalil-zaghla-625404316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:khalil.zaghla@enetcom.u-sfax.tn">
+  <a href="mailto:zaghlakhalil077@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=khalilzaghla&style=for-the-badge&color=blue" alt="Profile Views" />
@@ -18,34 +18,28 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Second-year **Data Engineering** student at **ENET'Com**, Sfax, Tunisia
-- 🔭 Currently working on **fraud detection systems** using GNNs & big data pipelines
-- 🌱 Currently deepening my knowledge in **Graph Neural Networks**, **Transformers**, and **Real-time Data Engineering**
-- 🤝 Member of **Google Developer Student Club (GDSC) @ ENET'Com**
-- 💬 Ask me about **Python, PyTorch, Apache Spark, Kafka, GNNs, Data Pipelines**
-- ⚡ Fun fact: I love combining cutting-edge ML models with large-scale data systems
+- 🎓 Final-year **Data Engineering** student at **ENET'Com**, Sfax, Tunisia
+- 🔬 Passionate about **Computer Vision & Deep Learning**, with a focus on spatio-temporal video understanding, human pose estimation, and behavioral anomaly recognition
+- 🔭 Actively working with **YOLOv8/Pose, SlowFast (3D CNNs), VideoMAE, and Reinforcement Learning (PPO)**
+- 🤝 **Machine Learning Lead** at **Google Developer Student Club (GDSC) @ ENET'Com**
+- 💬 Ask me about **Computer Vision Pipelines, Spatio-Temporal Video, PyTorch, Real-Time Inference, and Streaming Data**
+- ⚡ Seeking a **Graduation Internship (PFE) / Junior Role** in Computer Vision & Applied AI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🤖 Machine Learning & AI
+### 👁️ Computer Vision & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/DGL-0080FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-### 📦 Big Data & Data Engineering
+### 📦 Big Data & Streaming Systems
 <p>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
@@ -53,27 +47,29 @@
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
 </p>
 
-### 🧰 Tools & Platforms
+### 👨‍💻 Languages, Deployment & Tools
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech Stack |
 |---|---|---|
-| [**PFAD**](https://github.com/khalilzaghla/PFAD) | Big Data Fraud Detection Platform with real-time analytics | Kafka, Spark, ClickHouse, Python |
-| [**gnn_training**](https://github.com/khalilzaghla/gnn_trainig) | Graph Neural Network training experiments for fraud detection | PyTorch, DGL, Python |
-| [**sql_warehouse_project**](https://github.com/khalilzaghla/sql_warehouse_project) | Modern data warehouse with ETL, data modeling & analytics | SQL Server, TSQL, Power BI |
-| [**machine_learning_CLTV**](https://github.com/khalilzaghla/machine_learning_CLTV) | Customer Lifetime Value prediction using ML | Python, scikit-learn |
-| [**EcoShield AI**](https://github.com/ai-night-challlenge-2026/EcoShield_AI) | AI Night Hackathon 2026 project | Python, AI/ML |
+| **Spatio-Temporal Action Recognition** | End-to-end video action detection using YOLOv8 tracking, 3D RoIAlign, and SlowFast dual-pathway backbone with Flask dashboard | PyTorch, YOLOv8, SlowFast (ResNet-50 3D), OpenCV, Flask |
+| **RL Video Anomaly Scoring** | Active temporal anomaly localization leveraging PPO (Actor-Critic) over fine-tuned VideoMAE spatio-temporal embeddings | PyTorch, VideoMAE, PPO, Reinforcement Learning, Transformers |
+| [**PFAD**](https://github.com/khalilzaghla/PFAD) | Real-time streaming fraud detection platform handling 50k+ events/hr with sub-200ms latency and GraphSAGE GNN inference | Kafka, Spark, ClickHouse, GNN, PyTorch, Airflow |
+| [**EcoShield AI**](https://github.com/ai-night-challlenge-2026/EcoShield_AI) | Multi-modal intelligent detection system (AI Night Challenge 2026 Winner) | Python, Deep Learning, Computer Vision |
+| [**gnn_training**](https://github.com/khalilzaghla/gnn_trainig) | Graph Neural Network benchmarking and node classification experiments | PyTorch, DGL, GraphSAGE |
 
 ---
 
@@ -90,14 +86,15 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights & Experience
 
-- 🥇 Winner — **AI Night Challenge 2026** (EcoShield AI project)
-- 🎓 Machine Learning Department CO-lead — **Google Developer Student Club @ ENET'Com**
-- 💼 Intern — **Digital Research Center Of Sfax ** (Computer Vision application)
+- 💼 **Computer Vision Intern** — Retail Loss Prevention @ *Anavid* (YOLO-Pose, ByteTrack, STG-NF, ST-LSTM)
+- 💼 **Computer Vision Intern** — Marine Species Analysis @ *Digital Research Center of Sfax* (YOLOv8, ResNet, EfficientNet)
+- 🎓 **Machine Learning Lead** — *Google Developer Student Club (GDSC) @ ENET'Com*
+- 🥇 **Winner** — *AI Night Challenge 2026* (EcoShield AI)
 
 ---
 
 <p align="center">
-  <i>"Data is the new oil — but only if you know how to refine it."</i>
+  <i>"Turning pixels and data streams into real-time intelligent decisions."</i>
 </p>
